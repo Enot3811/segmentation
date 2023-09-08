@@ -1,3 +1,9 @@
+"""Infer some image with a trained net.
+
+Pass model_pth and img_pth in main.
+"""
+
+
 from pathlib import Path
 
 import torch
