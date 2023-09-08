@@ -1,0 +1,11 @@
+numpy
+opencv-python
+torch
+torchvision
+matplotlib
+tqdm
+flake8
+tensorboard
+
+# Install manually
+#albumentations --no-binary qudida,albumentations
